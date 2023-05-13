@@ -1,0 +1,14 @@
+abstract
+Se utiliza para definir clases y métodos abstractos. Una clase abstracta no puede ser utilizada para crear objetos y un método abstracto no tiene cuerpo y debe ser implementado en una subclase.
+
+assert
+Se utiliza como ayuda para depurar y probar la corrección de las suposiciones hechas en el código.
+
+break
+Se utiliza para salir de un bucle o de una instrucción switch.
+
+byte
+Un tipo de dato que puede almacenar números enteros desde -128 hasta 127.
+
+case
+Se utiliza en las instrucciones switch para marcar un bloque de código que se ejecutará si el valor de la expresión switch coincide con la etiqueta del caso.
